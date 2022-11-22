@@ -4,6 +4,14 @@ My Favorite Things To Do
 
 -Sleeping
 
-![New_Gay_Pride_Flag svg](https://user-images.githubusercontent.com/118425546/202376512-0df39260-f1cb-4db6-9214-61025f4bbce1.png)
+-Playing
+
+-Eating
+
+-Reading
+
+![mcdo](https://user-images.githubusercontent.com/118425546/203220430-d14d73ea-5374-4071-b6d7-40147293af75.jpg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kX3nB4PpJko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HIgvP7B3Hg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
